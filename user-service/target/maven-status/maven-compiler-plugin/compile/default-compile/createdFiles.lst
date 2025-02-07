@@ -1,0 +1,7 @@
+config\MongoDBConfig.class
+com\ecommerce\app\userservice\UserServiceApplication.class
+com\ecommerce\app\userservice\controller\PostgresUserController.class
+com\ecommerce\app\userservice\model\postgres\PostgresUser.class
+com\ecommerce\app\userservice\service\PostgresUserService.class
+config\PostgresConfig.class
+com\ecommerce\app\userservice\repository\postgres\PostgresUserRepository.class

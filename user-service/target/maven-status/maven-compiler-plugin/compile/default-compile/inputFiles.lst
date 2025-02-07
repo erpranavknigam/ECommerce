@@ -1,0 +1,7 @@
+D:\Learnings\Ecommerce\user-service\src\main\java\com\ecommerce\app\userservice\controller\PostgresUserController.java
+D:\Learnings\Ecommerce\user-service\src\main\java\com\ecommerce\app\userservice\model\postgres\PostgresUser.java
+D:\Learnings\Ecommerce\user-service\src\main\java\com\ecommerce\app\userservice\repository\postgres\PostgresUserRepository.java
+D:\Learnings\Ecommerce\user-service\src\main\java\com\ecommerce\app\userservice\service\PostgresUserService.java
+D:\Learnings\Ecommerce\user-service\src\main\java\com\ecommerce\app\userservice\UserServiceApplication.java
+D:\Learnings\Ecommerce\user-service\src\main\java\config\MongoDBConfig.java
+D:\Learnings\Ecommerce\user-service\src\main\java\config\PostgresConfig.java
